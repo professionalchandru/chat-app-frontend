@@ -21,6 +21,9 @@
 * App will be start in port 3000
 * To build your application type `npm build` in terminal
 
+## DEMO
+https://online-chating-app.netlify.app/
+
 ## SCREENS
 
 ### Screen - 1
