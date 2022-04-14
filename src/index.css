@@ -18,3 +18,18 @@ body{
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
 }
+
+::-webkit-scrollbar {
+    height: 4px;
+    width: 4px;
+    background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #2563EB;
+    -webkit-border-radius: 1ex;
+}
+
+::-webkit-scrollbar-corner {
+    background: #000;
+}
